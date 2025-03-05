@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+.scannerwork
+flaskenv
+.coverage
+coverage.xml
