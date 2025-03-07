@@ -1,6 +1,11 @@
-__pycache__
-.pytest_cache
-.scannerwork
-flaskenv
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+waterenv/
+
+# Coverage
+htmlcov/
 .coverage
-coverage.xml
